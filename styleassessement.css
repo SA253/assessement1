@@ -1,0 +1,13 @@
+ul>li :hover{
+    background-color: blue;
+   
+}
+.jumbotron-img {
+    background-image: url("images/books.jpg");
+    background-size:100% 100%;
+    color: beige;
+    margin-top:0; 
+    padding:100px;
+    margin-bottom: 15px;
+    
+}
